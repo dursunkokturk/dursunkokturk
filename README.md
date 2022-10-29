@@ -1,16 +1,25 @@
 ### Hi there 👋
 
-<!--
-**dursunkokturk/dursunkokturk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- I’m currently learning Java & Java Spring
+
+- I know Front-End Technologies
+  HTML5 - CSS3 - Bootstrap4 - JavaScript
+  
+- I know Back-End Technologies
+  Java - C++ - MySQL Database
+  
+- I know Mobile Technologies
+  React Native - Flutter
+  
+- I know Framework Technologies
+  JQuery - React.js
+  
+- How to reach me: dursunserefkokturk@gmail.com
+  Pronouns: He
+  
+  [![Medium Badge](https://img.shields.io/badge/-Medium-757575?style=flat-quare&labelColor=757575&logo=Medium&logoColor=white&https://medium.com/@dursunserefkokturk=https://medium.com/@dursunserefkokturk)](https://medium.com/@dursunserefkokturk)
+  
+  ![Github stats 1](https://github-readme-stats.vercel.app/api?username=kullanıcıadınız&show_icons=true&theme=gradient) 
+![Github stats 2](https://github-readme-stats.vercel.app/api?username=kullanıcıadınız&show_icons=true&theme=radical)
