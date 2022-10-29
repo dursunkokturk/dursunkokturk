@@ -17,7 +17,8 @@ Here are some ideas to get you started:
   JQuery - React.js
   
 - How to reach me: dursunserefkokturk@gmail.com
-  Pronouns: He
+ 
+ - Pronouns: He
   
   [![Medium Badge](https://img.shields.io/badge/-Medium-757575?style=flat-quare&labelColor=757575&logo=Medium&logoColor=white&https://medium.com/@dursunserefkokturk=https://medium.com/@dursunserefkokturk)](https://medium.com/@dursunserefkokturk)
   
