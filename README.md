@@ -16,6 +16,9 @@ Here are some ideas to get you started:
 - I know Framework Technologies
   JQuery - React.js
   
+- I have Medium Account 
+  https://medium.com/@dursunserefkokturk
+
 - How to reach me: dursunserefkokturk@gmail.com
  
  - Pronouns: He
