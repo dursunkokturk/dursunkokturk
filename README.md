@@ -4,6 +4,7 @@ Here are some ideas to get you started:
 
 - I’m currently learning Java & Java Spring
 
+- I’m currently learning Python & Selenium
 - I know Front-End Technologies
   HTML5 - CSS3 - Bootstrap4 - JavaScript
   
