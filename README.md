@@ -2,6 +2,8 @@
 
 Here are some ideas to get you started:
 
+- I’m currently learning Javascript
+
 - I’m currently learning Java & Java Spring
 
 - I’m currently learning Python & Selenium
