@@ -18,13 +18,13 @@ Here are some ideas to get you started:
   JQuery - React.js
   
 - I have Medium Account 
-  https://medium.com/@dursunserefkokturk
+  https://medium.com/@dursunkokturk
 
 - How to reach me: dursunserefkokturk@gmail.com
  
  - Pronouns: He
   
-  [![Medium Badge](https://img.shields.io/badge/-Medium-757575?style=flat-quare&labelColor=757575&logo=Medium&logoColor=white&https://medium.com/@dursunserefkokturk=https://medium.com/@dursunserefkokturk)](https://medium.com/@dursunserefkokturk)
+  [![Medium Badge]([https://img.shields.io/badge/-Medium-757575?style=flat-quare&labelColor=757575&logo=Medium&logoColor=white&https://medium.com/@dursunserefkokturk=https://medium.com/@dursunserefkokturk)](https://medium.com/@dursunserefkokturk](https://medium.com/@dursunkokturk))
   
-  ![Github stats 1](https://github-readme-stats.vercel.app/api?username=kullanıcıadınız&show_icons=true&theme=gradient) 
-![Github stats 2](https://github-readme-stats.vercel.app/api?username=kullanıcıadınız&show_icons=true&theme=radical)
+  ![Github stats 1]([https://github-readme-stats.vercel.app/api?username=kullanıcıadınız&show_icons=true&theme=gradient) 
+![Github stats 2](https://github-readme-stats.vercel.app/api?username=kullanıcıadınız&show_icons=true&theme=radical](https://github.com/dursunkokturk)https://github.com/dursunkokturk)
