@@ -8,8 +8,11 @@ Here are some ideas to get you started:
 
 - I’m currently learning Python & Selenium
 - I know Front-End Technologies
-  HTML5 - CSS3 - Bootstrap4 - JavaScript- Vue JS - React JS
-  
+  HTML5 - CSS3 - Bootstrap4 - JavaScript
+
+- I know Front-End Frameworks
+  Vue JS - React JS
+
 - I know Back-End Technologies
   Java - C++ - MySQL Database
   
