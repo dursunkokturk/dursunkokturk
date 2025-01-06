@@ -10,8 +10,8 @@ Here are some ideas to get you started:
 - I know Front-End Technologies
   HTML5 - CSS3 - Bootstrap4 - JavaScript
 
-- I know Front-End Frameworks
-  Vue JS - React JS
+- I know Javascript Frameworks
+  Vue - React
 
 - I know Back-End Technologies
   Java - C++ - MySQL Database
