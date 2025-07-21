@@ -2,25 +2,32 @@
 
 Here are some ideas to get you started:
 
-- I’m currently learning Javascript
-
-- I’m currently learning Java & Java Spring
-
-- I’m currently learning Python & Selenium
+- I know Text Markup Languages
+  HTML
+  
 - I know Front-End Technologies
-  HTML5 - CSS3 - Bootstrap4 - JavaScript
+  Javascript
 
-- I know Javascript Frameworks
-  Vue - React
+- I know CSS
+  HTML5 - CSS3 - Bootstrap4 - Typescript - Tailwind
+
+- I know Javascript Libraries
+  React - Vue - JQuery
+  
+- I know React Framework
+  Next
 
 - I know Back-End Technologies
-  Java - C++ - MySQL Database
-  
-- I know Mobile Technologies
-  React Native - Flutter
-  
-- I know Framework Technologies
-  JQuery - React.js
+  Java - C# - C++ - Python - MySQL Database
+
+- I know Database Technologies
+  SQL - MySQL Database - PostgreSQL
+
+- I know Test Automation Technologies
+  Selenium
+
+- I know Back-End Framework Technologies
+  Java Spring
   
 - I have Medium Account 
   https://medium.com/@dursunkokturk
