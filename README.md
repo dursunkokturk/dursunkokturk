@@ -2,8 +2,8 @@
 
 Here are some ideas to get you started:
 
-- I know Text Markup Languages
-  HTML
+# I know Text Markup Languages
+##  HTML
   
 - I know Front-End Technologies
   Javascript
