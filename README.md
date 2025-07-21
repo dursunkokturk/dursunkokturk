@@ -2,34 +2,34 @@
 
 Here are some ideas to get you started:
 
-# I know Text Markup Languages
+# Text Markup Languages
   HTML
   
-# I know Front-End Technologies
+# Front-End Technologies
   Javascript
 
-# I know CSS
+# CSS
   HTML5 - CSS3 - Bootstrap4 - Typescript - Tailwind
 
-# I know Javascript Libraries
+# Javascript Libraries
   React - Vue - JQuery
   
-# I know React Framework
+# React Framework
   Next
 
-# I know Back-End Technologies
+# Back-End Technologies
   Java - C# - C++ - Python - MySQL Database
 
-# I know Database Technologies
+# Database Technologies
   SQL - MySQL Database - PostgreSQL
 
-# I know Test Automation Technologies
+# Test Automation Technologies
   Selenium
 
-# I know Back-End Framework Technologies
+# Back-End Framework Technologies
   Java Spring
   
-# I have Medium Account 
+# My Medium Account 
   https://medium.com/@dursunkokturk
 
 - How to reach me: dursunserefkokturk@gmail.com
