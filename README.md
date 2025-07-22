@@ -5,39 +5,39 @@
 ===================================================================================================
 
 # Text Markup Languages
-  HTML
+#### HTML
   
 # Front-End Technologies
-  Javascript
+#### Javascript
 
 # CSS
-  HTML5 - CSS3 - Bootstrap4 - Typescript - Tailwind
+#### HTML5 - CSS3 - Bootstrap4 - Typescript - Tailwind
 
 # Javascript Libraries
-  React - Vue - JQuery
+#### React - Vue - JQuery
   
 # React Framework
-  Next
+#### Next
 
 ===================================================================================================
 
 # Back-End Technologies
-  Java - C# - C++ - Python - MySQL Database
+#### Java - C# - C++ - Python - MySQL Database
 
 ===================================================================================================
 
 # Database Technologies
-  SQL - MySQL Database - PostgreSQL
+#### SQL - MySQL Database - PostgreSQL
 
 ===================================================================================================
 
 # Test Automation Technologies
-  Selenium
+#### Selenium
 
 ===================================================================================================
 
 # Back-End Framework Technologies
-  Java Spring
+#### Java Spring
 
 ===================================================================================================
 
