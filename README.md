@@ -3,6 +3,7 @@
 ## The Areas I Work In As An Information Systems Engineer And Software Developer And The Technologies I Use In My Projects
 
 ===================================================================================================
+
 # Text Markup Languages
   HTML
   
@@ -18,18 +19,28 @@
 # React Framework
   Next
 
+===================================================================================================
+
 # Back-End Technologies
   Java - C# - C++ - Python - MySQL Database
+
+===================================================================================================
 
 # Database Technologies
   SQL - MySQL Database - PostgreSQL
 
+===================================================================================================
+
 # Test Automation Technologies
   Selenium
 
+===================================================================================================
+
 # Back-End Framework Technologies
   Java Spring
-  
+
+===================================================================================================
+
 # My Medium Account 
   https://medium.com/@dursunkokturk
 
