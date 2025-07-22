@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-## The areas I work in as an information systems engineer and software developer and the technologies I use in my projects
+## The Areas I Work In As An Information Systems Engineer And Software Developer And The Technologies I Use In My Projects
 
 # Text Markup Languages
   HTML
