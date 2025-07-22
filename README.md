@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-## Technologies I Use In My Projects As An Information Systems Engineer And Software Developer
+## The areas I work in as an information systems engineer and software developer and the technologies I use in my projects
 
 # Text Markup Languages
   HTML
